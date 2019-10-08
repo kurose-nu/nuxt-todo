@@ -1,4 +1,4 @@
-import firebase from '/plugins/firebase'
+import firebase from '~/plugins/firebase'
 import { firestoreAction } from 'vuexfire'
 
 const db = firebase.firestore()
